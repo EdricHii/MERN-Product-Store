@@ -14,19 +14,18 @@ A full-stack product management application built with the MERN stack (MongoDB, 
 - ✅ Dark/Light mode toggle
 
 ###
-
-1. Setup .env file
+**Setup .env file**
 ```
 MONGO_URI=your_mongo_uri
 PORT=5000
 ```
 
-2. Run this app locally
+**Run this app locally**
 ```bash
 npm run build
 ```
 
-3. Start the app
+**Start the app**
 ```bash
 npm start
 ```
